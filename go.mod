@@ -1,0 +1,3 @@
+module credit-val
+
+go 1.23.0
